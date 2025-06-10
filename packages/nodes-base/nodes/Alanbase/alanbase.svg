@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <title>Alanbase</title>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="256" height="256"></rect>
+        <g transform="translate(28.000000, 28.000000)">
+            <path d="M100,0 C155.228,0 200,44.772 200,100 C200,155.228 155.228,200 100,200 C44.772,200 0,155.228 0,100 C0,44.772 44.772,0 100,0 Z" fill="#4F5DF6"></path>
+            <path d="M127.929,145 L107.304,91.625 L86.679,145 L60,145 L100.152,55 L114.455,55 L154.608,145 L127.929,145 Z" fill="#FFFFFF"></path>
+            <path d="M40,160 L160,160 L160,170 C160,175.523 155.523,180 150,180 L50,180 C44.477,180 40,175.523 40,170 L40,160 Z" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>
